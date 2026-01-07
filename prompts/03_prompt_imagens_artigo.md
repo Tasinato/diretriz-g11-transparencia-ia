@@ -62,7 +62,7 @@ Arquivo:![Diretriz G11 – Explicabilidade pós-fato em sistemas de IA](https://
 
 ---
 
-### 5. Redução da incerteza e confiança
+### 4. Redução da incerteza e confiança
 **Tema:** Confiança do usuário
 
 Prompt:
@@ -74,7 +74,7 @@ Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https:
 
 ---
 
-### 6. Desafios e limitações
+### 5. Desafios e limitações
 **Tema:** Opacidade e complexidade
 
 Prompt:
@@ -88,7 +88,7 @@ Arquivo:![Critérios de decisão e transparência algorítmica](https://raw.gith
 
 ---
 
-### 7. Sistemas probabilísticos
+### 6. Sistemas probabilísticos
 **Tema:** Incerteza e variabilidade
 
 Prompt:
@@ -100,7 +100,17 @@ Arquivo:![Natureza probabilística e incerteza em sistemas de IA](https://raw.gi
 
 ---
 
-Considerações finais
+### 7. Considerações finais  
+**Tema:** IA responsável e transparente  
+
+Prompt:  
+> Ilustração conceitual representando o uso responsável da Inteligência Artificial, com sistemas transparentes, decisões explicáveis e integração equilibrada entre tecnologia e sociedade.
+
+Arquivo: ![Considerações finais – IA responsável, transparente e centrada no usuário](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/conclusao.png)
+
+---
+
+
 
 
 
