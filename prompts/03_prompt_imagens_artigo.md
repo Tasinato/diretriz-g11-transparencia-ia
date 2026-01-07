@@ -100,7 +100,7 @@ Arquivo:![Desafios e opacidade em modelos de aprendizado profundo](assets/desafi
 Prompt:
 > Ilustração conceitual representando a natureza probabilística da Inteligência Artificial, com múltiplos caminhos possíveis, distribuições e elementos abstratos que simbolizem incerteza controlada.
 
-Arquivo:![Natureza probabilística e incerteza em sistemas de IA](assets/SistemasProbabilisticos.png)
+Arquivo:![Natureza probabilística e incerteza em sistemas de IA](assets/SistemasProbabilisticos.png)  
 
 
 ---
