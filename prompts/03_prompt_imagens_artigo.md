@@ -80,7 +80,8 @@ Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https:
 Prompt:
 > Ilustração conceitual representando a complexidade e opacidade de modelos de aprendizado profundo, com camadas densas, elementos abstratos e dificuldade de interpretação, mantendo estética técnica.
 
-Arquivo:
+Arquivo:![Critérios de decisão e transparência algorítmica](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/desafios_decisao.png)
+
 
 
 
