@@ -1,4 +1,4 @@
-###Geração de Imagens Conceituais
+### Geração de Imagens Conceituais
 
 ## Objetivo do prompt
 Gerar **imagens conceituais e ilustrativas** para acompanhar um **artigo de revisão narrativa** sobre a **Diretriz G11 e a transparência em sistemas de Inteligência Artificial**, reforçando visualmente os conceitos discutidos em cada seção do texto.
