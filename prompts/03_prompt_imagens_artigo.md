@@ -45,7 +45,8 @@ Arquivo: ![Capa do artigo – Transparência e Diretriz G11](https://raw.githubu
 Prompt:
 > Ilustração conceitual mostrando sistemas de Inteligência Artificial influenciando decisões humanas, com elementos abstratos de ética, responsabilidade e tecnologia, em composição equilibrada e profissional.
 
-Arquivo:![Contexto geral e ética em Inteligência Artificial](assets/introducao.png)
+Arquivo:![Introdução – Contexto geral e ética em Inteligência Artificial](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/introducao.png)
+
 
 
 ---
@@ -56,7 +57,8 @@ Arquivo:![Contexto geral e ética em Inteligência Artificial](assets/introducao
 Prompt:
 > Ilustração conceitual de um sistema de IA explicando uma decisão após sua execução, com fluxos de decisão destacados, símbolos de explicação e clareza, representando explicabilidade pós-fato em sistemas inteligentes.
 
-Arquivo:![Explicabilidade pós-fato e transparência em sistemas de IA](assets/g11.png)
+Arquivo:![Diretriz G11 – Explicabilidade pós-fato em sistemas de IA](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/g11.png)
+
 
 
 ---
@@ -67,7 +69,8 @@ Arquivo:![Explicabilidade pós-fato e transparência em sistemas de IA](assets/g
 Prompt:
 > Ilustração conceitual representando critérios de decisão em sistemas de IA, com diagramas de decisão, caminhos alternativos e fatores destacados, sugerindo transparência algorítmica.
 
-Arquivo: ![Critérios de decisão e transparência algorítmica](assets/desafios_decisao.png)
+Arquivo:![Critérios de decisão e transparência algorítmica](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/desafios_decisao.png)
+
 
 
 
@@ -79,7 +82,8 @@ Arquivo: ![Critérios de decisão e transparência algorítmica](assets/desafios
 Prompt:
 > Ilustração conceitual mostrando a relação de confiança entre humano e sistema de IA, com elementos visuais que simbolizem previsibilidade, cooperação e compreensão mútua.
 
-Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](assets/confianca.png)
+Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/confianca.png)
+
 
 
 ---
@@ -90,7 +94,9 @@ Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](assets
 Prompt:
 > Ilustração conceitual representando a complexidade e opacidade de modelos de aprendizado profundo, com camadas densas, elementos abstratos e dificuldade de interpretação, mantendo estética técnica.
 
-Arquivo:![Desafios e opacidade em modelos de aprendizado profundo](assets/desafios.png)
+Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/confianca.png)
+
+
 
 
 ---
@@ -101,7 +107,8 @@ Arquivo:![Desafios e opacidade em modelos de aprendizado profundo](assets/desafi
 Prompt:
 > Ilustração conceitual representando a natureza probabilística da Inteligência Artificial, com múltiplos caminhos possíveis, distribuições e elementos abstratos que simbolizem incerteza controlada.
 
-Arquivo:![Natureza probabilística e incerteza em sistemas de IA](assets/SistemasProbabilisticos.png)  
+Arquivo:![Natureza probabilística e incerteza em sistemas de IA](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/SistemasProbabilisticos.png)
+ 
 
 
 ---
