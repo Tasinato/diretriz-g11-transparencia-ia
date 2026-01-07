@@ -35,16 +35,15 @@ O projeto tem como foco a transparência em sistemas de IA, com base na Diretriz
 │   ├── 02_prompt_referencias_doi.md
 │   └── 03_prompt_imagens_artigo.md
 │
-├── assets/
-│   └── images/
-│       ├── capa.png
-│       ├── introducao.png
-│       ├── g11.png
-│       ├── criterios_decisao.png
-│       ├── confianca.png
-│       ├── desafios.png
-│       ├── sistemas_probabilisticos.png
-│       └── conclusao.png
+├── assets/ 
+│   ├── capa.png
+│   ├── introducao.png
+│   ├── g11.png
+│   ├── criterios_decisao.png
+│   ├── confianca.png
+│   ├── desafios.png
+│   ├── sistemas_probabilisticos.png
+│   └── conclusao.png
 │
 └── README.md
 ```
