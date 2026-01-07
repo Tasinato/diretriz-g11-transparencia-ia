@@ -33,7 +33,7 @@ Crie uma **ilustração conceitual de alta qualidade**, com estilo **moderno, li
 Prompt:
 > Ilustração conceitual representando a transparência em sistemas de Inteligência Artificial, com uma rede neural parcialmente visível, camadas internas iluminadas, fluxos de decisão destacados e interação simbólica entre humano e sistema de IA, em estilo moderno e abstrato.
 
-Arquivo: ![Capa do artigo – Transparência e Diretriz G11](assets/capa.png)
+Arquivo: ![Capa do artigo – Transparência e Diretriz G11]([assets/capa.png](https://github.com/Tasinato/diretriz-g11-transparencia-ia/blob/main/assets/capa.png))
 
 
 ---
