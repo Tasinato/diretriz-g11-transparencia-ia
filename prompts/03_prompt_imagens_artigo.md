@@ -60,20 +60,6 @@ Prompt:
 Arquivo:![Diretriz G11 – Explicabilidade pós-fato em sistemas de IA](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/g11.png)
 
 
-
----
-
-### 4. Acesso aos critérios de decisão
-**Tema:** Critérios e lógica decisória
-
-Prompt:
-> Ilustração conceitual representando critérios de decisão em sistemas de IA, com diagramas de decisão, caminhos alternativos e fatores destacados, sugerindo transparência algorítmica.
-
-Arquivo:![Critérios de decisão e transparência algorítmica](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/desafios_decisao.png)
-
-
-
-
 ---
 
 ### 5. Redução da incerteza e confiança
@@ -94,7 +80,7 @@ Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https:
 Prompt:
 > Ilustração conceitual representando a complexidade e opacidade de modelos de aprendizado profundo, com camadas densas, elementos abstratos e dificuldade de interpretação, mantendo estética técnica.
 
-Arquivo:![Confiança do usuário em sistemas de Inteligência Artificial](https://raw.githubusercontent.com/Tasinato/diretriz-g11-transparencia-ia/main/assets/confianca.png)
+Arquivo:
 
 
 
@@ -112,6 +98,11 @@ Arquivo:![Natureza probabilística e incerteza em sistemas de IA](https://raw.gi
 
 
 ---
+
+Considerações finais
+
+
+
 
 ## Observações finais
 
